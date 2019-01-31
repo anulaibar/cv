@@ -1,5 +1,6 @@
 # Olle Hellgren
-> Born in the great year of 1977 when Elvis left the building aged 42 and Star Wars broke box office records
+> Born in the great year of 1977 when Elvis left the building aged 42 and Star Wars broke box office records  
+I live in Enskede with wife and kids, and I am really excited about singing in a choir which I just joined.
 
 ## Work
 2018 to 2019 - Web development at [Rebla](https://rebla.se/), Stockholm
