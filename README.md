@@ -36,6 +36,3 @@ Php, Java, Mysql, Apache, Subversion
 120 47 Enskede Gård  
 070 225 01 35  
 olle@rebla.se  
-
-### Source
-https://github.com/anulaibar/cv.git
