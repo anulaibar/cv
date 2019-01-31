@@ -30,7 +30,9 @@ Php, Java, Mysql, Apache, Subversion
 ## Studies
 2003 to 2004 - Exchange studies at Essi, Nice, France
 
-2000 to 2003 - MSc Media technology at Linköping Uni, Norrköping
+2000 to 2003 - MSc Media technology at Linköping university, Norrköping
+
+1993 to 1996 - High school, Östersund
 
 ## Contact
 >Odelbergsvägen 36  
