@@ -1,11 +1,12 @@
 # Olle Hellgren
-> Born in the great year of 1977 when Elvis left the building aged 42 and Star Wars broke box office records  
-I live in Enskede with wife and kids, and I am really excited about singing in a choir which I just joined.
+> Born in the year of 1977 (as sung by [Ana Tijoux](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ)) - the same year as Shakira and koran rapper Psy.  
+I live in Enskede with my wife and kids, and is a proud member of [Enskede Indiekör](https://sv-se.facebook.com/enskedeindiekor/).
+My chinese zodiac is 🐍
 
 ## Work
-2018 to 2019 - Web development at [Rebla](https://rebla.se/), Stockholm
+2018 to 2022 - CTO at [Rebla](https://rebla.se/), Stockholm
 ```
-React, Redux, Webpack, Mocha, Enzyme, Cypress, Material UI, Git, Vim, Heroku, Postgres, Rest
+React, Redux, Webpack, Mocha, Testing Library, Cypress, Material UI, Postgres, Rest, Heroku Pipelines
 ```
 2016 to 2018 - Web development at [Blocket](https://www.blocket.se/), Stockholm
 ```
