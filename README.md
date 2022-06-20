@@ -3,7 +3,7 @@
 > 
 > I live in Enskede with my wife and kids, and I'm a proud member of [Enskede Indiekör](https://sv-se.facebook.com/enskedeindiekor/).
 > 
-> My (chinese zodiac)[https://chinesenewyear.net/zodiac/snake/] is 🔥🐍
+> My [chinese zodiac](https://chinesenewyear.net/zodiac/snake/) is 🔥🐍
 
 ## Work
 2018 to 2022 - CTO at [Rebla](https://rebla.se/), Stockholm
