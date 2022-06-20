@@ -1,9 +1,9 @@
 # Olle Hellgren
 > Born in 1977 (as sung by [Ana Tijoux](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ)) - the same year as Shakira and Koran rapper Psy.
 > 
-> I live in Enskede with my wife and kids, and is a proud member of [Enskede Indiekör](https://sv-se.facebook.com/enskedeindiekor/).
+> I live in Enskede with my wife and kids, and I'm a proud member of [Enskede Indiekör](https://sv-se.facebook.com/enskedeindiekor/).
 > 
-> My chinese zodiac is 🐍
+> My (chinese zodiac)[https://chinesenewyear.net/zodiac/snake/] is 🔥🐍
 
 ## Work
 2018 to 2022 - CTO at [Rebla](https://rebla.se/), Stockholm
