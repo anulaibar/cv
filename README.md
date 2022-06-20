@@ -38,10 +38,10 @@
 1993 to 1996 - High school, Östersund
 
 ## Contact
->Odelbergsvägen 36  
-120 47 Enskede Gård  
-070 225 01 35  
-olle@rebla.se  
+>Odelbergsvägen 36
+120 47 Enskede Gård
+070 225 01 35
+olle@rebla.se
 
 [Apache]:https://www.apache.org/
 [Bash]:https://www.gnu.org/software/bash/
