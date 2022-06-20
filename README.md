@@ -26,7 +26,7 @@
 
 2007 to 2008 - IT support at [Dagens Industri](https://www.di.se/), Stockholm
 
-2006 to 2007 - Web development, [Payex](https://payex.se/), Stockholm
+2006 to 2007 - Web development at [Payex](https://payex.se/), Stockholm
 
 ## Studies
 2003 to 2004 - Exchange studies at Essi, Nice, France
