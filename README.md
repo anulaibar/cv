@@ -8,25 +8,25 @@
 
 >[React], [Redux], [Webpack], [Testing Library], [Cypress], [MUI], [Flask], [PostgreSQL], [Heroku Pipelines], [GitHub projects]
 
-2016 to 2018 - Web development at [Blocket](https://www.blocket.se/), Stockholm
+2016 to 2018 - Web developer at [Blocket](https://www.blocket.se/), Stockholm
 
 >[React], [Redux], [Mocha], [Jest], [Enzyme], [styled-components], [Python], [Git], [Vim], [Docker], [NGINX], [PostgreSQL], [semantic-release]
 
-2014 to 2015 - Web development at [Nyx Gaming Group](https://www.sgdigital.com/), Stockholm
+2014 to 2015 - Web developer at [Nyx Gaming Group](https://www.sgdigital.com/), Stockholm
 
 >[Ruby on Rails], [Rspec], [React], [Jest], [Pure.css], [Sass], [Bash], [Git], [Vim]
 
-2011 to 2014 - Web development at [Amaya](http://www.starsgroup.com/), Stockholm
+2011 to 2014 - Web developer at [Amaya](http://www.starsgroup.com/), Stockholm
 
 >[Ruby on Rails], [Bootstrap], [jQuery], [NGINX], [Git]
 
-2008 to 2011 - Web development at Ongame, Stockholm
+2008 to 2011 - Web developer at Ongame, Stockholm
 
 >[PHP], [Java], [MySQL], [Apache], [Subversion]
 
-2007 to 2008 - IT support at [Dagens Industri](https://www.di.se/), Stockholm
+2007 to 2008 - Support technician at [Dagens Industri](https://www.di.se/), Stockholm
 
-2006 to 2007 - Web development at [Payex](https://payex.se/), Stockholm
+2006 to 2007 - Web developer at [Payex](https://payex.se/), Stockholm
 
 ## Studies
 2003 to 2004 - Exchange studies at Essi, Nice, France
